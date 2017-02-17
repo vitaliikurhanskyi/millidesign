@@ -1,0 +1,24 @@
+{
+  "name": "www",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "vitaliykurganskiy <vitaliykurganskiy@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "slick-carousel": "^1.6.0",
+    "page-scroll-to-id": "^1.5.7",
+    "wow": "wowjs#^1.1.2",
+    "jquery-placeholder": "^2.3.1"
+  }
+}
